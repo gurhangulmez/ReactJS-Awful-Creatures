@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/awful-creatures/static/css/main.01353a05.chunk.css",
+    "main.js": "/awful-creatures/static/js/main.66076430.chunk.js",
+    "main.js.map": "/awful-creatures/static/js/main.66076430.chunk.js.map",
+    "runtime-main.js": "/awful-creatures/static/js/runtime-main.7a2755f2.js",
+    "runtime-main.js.map": "/awful-creatures/static/js/runtime-main.7a2755f2.js.map",
+    "static/js/2.6b01c0c0.chunk.js": "/awful-creatures/static/js/2.6b01c0c0.chunk.js",
+    "static/js/2.6b01c0c0.chunk.js.map": "/awful-creatures/static/js/2.6b01c0c0.chunk.js.map",
+    "static/js/3.7213d46b.chunk.js": "/awful-creatures/static/js/3.7213d46b.chunk.js",
+    "static/js/3.7213d46b.chunk.js.map": "/awful-creatures/static/js/3.7213d46b.chunk.js.map",
+    "index.html": "/awful-creatures/index.html",
+    "static/css/main.01353a05.chunk.css.map": "/awful-creatures/static/css/main.01353a05.chunk.css.map",
+    "static/js/2.6b01c0c0.chunk.js.LICENSE.txt": "/awful-creatures/static/js/2.6b01c0c0.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.7a2755f2.js",
+    "static/js/2.6b01c0c0.chunk.js",
+    "static/css/main.01353a05.chunk.css",
+    "static/js/main.66076430.chunk.js"
+  ]
+}
